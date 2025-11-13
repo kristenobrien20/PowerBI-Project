@@ -8,6 +8,8 @@ school (within Boone County).
 
 I focused on Conner High School because I previously worked there as a teacher. Here are some trends I noticed for Conner High School while exploring the data dashboard:
 - Economically disadvantaged students are consistently in the top 3 demographics for disagreeing with survey questions.
+- A large majority of students feel welcome in the classroom by teachers (89% agree or strongly agree - Question #3) and feel that adults at the school care about them (92% agree or strongly agree - Question #5)
+- 48% of the African American students surveyed disagree or strongly disagree that "All students are treated the same if they break school rules" (Question #7)
 - Female and male students have different perceptions on bullying / mean behavior in school (For example, 43% of females and 62% of males agree/ strongly agree with the statement,
  "Students being mean or hurtful to other students online (such as websites and apps) is NOT a problem for my school." Additionally, 53% of females and 72% of males agree/ strongly
 agree with the statement, "Students being mean or hurtful to other students is NOT a problem for this school." (See image below for this question from the dashboard - Question #23 on the survey).
