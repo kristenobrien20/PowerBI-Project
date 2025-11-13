@@ -7,8 +7,8 @@ PowerBI file. The actual PowerBI dashboard has interactive filters so the viewer
 school (within Boone County).
 
 I focused on Conner High School because I previously worked there as a teacher. Here are some trends I noticed for Conner High School while exploring the data dashboard:
-- Economonically disadvantaged students are consistently in the top 3 demographics for disagreeings with survey questions.
-- Female and male students have different perceptions on bullying / mean behavior in school (For example, 43% of females and 62% of mals agree/ strongly agree with the statement,
+- Economically disadvantaged students are consistently in the top 3 demographics for disagreeing with survey questions.
+- Female and male students have different perceptions on bullying / mean behavior in school (For example, 43% of females and 62% of males agree/ strongly agree with the statement,
  "Students being mean or hurtful to other students online (such as websites and apps) is NOT a problem for my school." Additionally, 53% of females and 72% of males agree/ strongly
 agree with the statement, "Students being mean or hurtful to other students is NOT a problem for this school." (See image below for this question from the dashboard - Question #23 on the survey).
 
